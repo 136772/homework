@@ -1,0 +1,12 @@
+.ui.column.centered.grid {
+    margin-top: 30px;
+}
+.content {
+    margin-bottom: 20px;
+}
+#image-card {
+    height:200px;
+    width: 100%;
+    border-radius:5px;
+    object-fit:cover;
+}
