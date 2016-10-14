@@ -87,3 +87,10 @@
     left: 100%;
     top: 100%;
 }
+.ui.inverted.red.basic.segment.people-say > .ui.inverted.red.circular.button{
+    top: 93%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    background-color: white;
+}
